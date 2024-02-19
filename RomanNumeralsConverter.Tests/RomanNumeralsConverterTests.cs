@@ -23,6 +23,8 @@ public class RomanNumeralsConverterTests
     }
 
     [Theory]
+    [InlineData(24, "XXIV")]
+    [InlineData(124, "CXXIV")]
     [InlineData(125, "CXXV")]
     public void Convert_ComplexValues(int number, string roman)
     {

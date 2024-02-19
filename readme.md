@@ -43,7 +43,7 @@ digit.600 = DC
 digit.700 = DCC
 digit.800 = DCCC
 digit.900 = CM
-digit.1000 = C
-digit.2000 = CC
-digit.3000 = CCC
+digit.1000 = M
+digit.2000 = MM
+digit.3000 = MMM
 ```
