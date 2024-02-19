@@ -1,6 +1,6 @@
 ﻿# Roman Numerals Converter
 
-Convert numbers into Roman Numberals.
+Convert numbers into Roman Numerals.
 
 Compilers: Principles, Tecniques, and Tools - Exercise 2.1
 
